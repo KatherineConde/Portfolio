@@ -1,0 +1,23 @@
+
+main{
+    width: 100%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.formulario {
+    font-family: cursive;
+    font-size: large;
+    width: 200px;
+    padding: 5px;
+    margin: auto;
+    background-color: rgba(239, 224, 206, 0.6);
+    margin-bottom: 95px;
+}
+
+
+
